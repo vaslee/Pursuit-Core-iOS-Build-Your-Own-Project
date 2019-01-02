@@ -79,7 +79,7 @@ Own and build your own iOS app.
 [Ramu]()  
 [Raymond]()  
 [Stephanie]()  
-[Tingxin]()  
+[Tingxin](https://github.com/vaslee/MakeUpApp)  
 [Yaz]()  
   
 </details> 
